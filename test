@@ -1,5 +1,6 @@
+target|req
 F|The system shall display Events or Activities.
-F|The display shall have two regions:  left 2/3 of the display is graphical  right 1/3 of the display is a data table
+F|The display shall have two regions: left 2/3 of the display is graphical  right 1/3 of the display is a data table
 F|The data displayed in both the nodes within the graph and the rows in the table are MSEL Summary data
 F|The table side of the display shall be split into 2 regions: sequential and temporal.
 F|The top 1/4 of the table will hold events that are to occur sequentially.
